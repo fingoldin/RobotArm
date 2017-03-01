@@ -1,3 +1,5 @@
 ﻿  RobotArmControl.cpp
+c:\users\vassy lord of arda\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\robotarmcontrol.cpp(79): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\vassy lord of arda\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\robotarmcontrol.cpp(23): warning C4101: 'r_buffer': unreferenced local variable
   ConsoleApplication1.vcxproj -> C:\Users\Vassy Lord of Arda\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\RobotArmControl.exe
   ConsoleApplication1.vcxproj -> C:\Users\Vassy Lord of Arda\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\RobotArmControl.pdb (Full PDB)
